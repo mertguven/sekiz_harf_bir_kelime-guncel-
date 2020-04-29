@@ -98,6 +98,7 @@ namespace sekiz_harf_bir_kelime
 
         private void yeniOyunBtn_Click(object sender, EventArgs e)//Her şeyi sıfırlar
         {
+            veriCekBtn.Enabled = true;
             eslestirBtn.Enabled = false;
             rastgeleBtn.Enabled = false;
             yeniOyunBtn.Enabled = false;

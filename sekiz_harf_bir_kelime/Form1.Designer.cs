@@ -784,8 +784,8 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(196)))), ((int)(((byte)(204)))));
             this.ClientSize = new System.Drawing.Size(748, 684);
             this.Controls.Add(this.dragPnl);
-            this.Controls.Add(this.nasilCalisirPnl);
             this.Controls.Add(this.kelimeOyunuPnl);
+            this.Controls.Add(this.nasilCalisirPnl);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
