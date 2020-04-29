@@ -1,6 +1,6 @@
 # Sekiz Harf Bir Kelime (GÜNCEL)
 
-Elle veya rastgele oluşturulan harflerden **anlamlı kelime** oluşturma uygulaması
+Rastgele veya kullanıcı tarafından oluşturulan harflerden **anlamlı kelime** oluşturma uygulaması.
 
 ## Framework
 
