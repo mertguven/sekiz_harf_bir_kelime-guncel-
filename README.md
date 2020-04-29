@@ -2,6 +2,19 @@
 
 Elle veya rastgele oluşturulan harflerden **anlamlı kelime** oluşturma uygulaması
 
+## Framework
+
+- [x] Entity Framework
+  * [Entity Framework Nedir?](https://www.entityframeworktutorial.net/what-is-entityframework.aspx)
+- [x] Bunifu Framework
+  * [Bunifu Framework Nedir?](https://bunifuframework.com/about-us/)
+- [x] .NET Framework
+  * [.NET Framework Nedir?](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework)
+
+## Veritabanı
+- [x] **Microsoft SQL Server**
+  * Toplam veri: 38972
+  
 ## Ekran Görüntüleri
 * **'Nasıl Çalışır?'** Ekranı
 
@@ -16,17 +29,6 @@ Elle veya rastgele oluşturulan harflerden **anlamlı kelime** oluşturma uygula
 
 ![Rastgele Ekranı](https://i.imgyukle.com/2020/04/29/ryrmct.png)
 
-## Framework
-- [x] Entity Framework
-  * [Entity Framework Nedir?](https://www.entityframeworktutorial.net/what-is-entityframework.aspx)
-- [x] Bunifu Framework
-  * [Bunifu Framework Nedir?](https://bunifuframework.com/about-us/)
-- [x] .NET Framework
-  * [.NET Framework Nedir?](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework)
-
-## Veritabanı
-- [x] **Microsoft SQL Server**
-  * Toplam veri: 38972
 ## Lisans
 
     Copyright 2020 MERT GÜVEN
